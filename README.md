@@ -13,7 +13,7 @@
    - Github
    - And having knowledge about how to run the project (such as Node.js, Django, Java, etc.) is not necessary. However, in case the GitHub repository doesn't have a readme file explaining how to run the project
 
-## Follw the Steps 
+## Follow the Steps 
 
    1. Create AWS EC2 instance
       - Lunch AWS EC 2 instance
