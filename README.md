@@ -128,7 +128,7 @@
          - save it
      
    9. Go to browser and paste your EC2 machine public ip and port number(ip:8000)
-   10. your project runnig.........
+   10. your project is runnig.........
    11. Hurry the jenkins pipeline created successfully
 
 ## Thank you 
