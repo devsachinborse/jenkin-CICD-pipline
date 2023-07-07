@@ -118,7 +118,7 @@
    6. Go to that directory and then run that project as per the project run instructions
    7. After installing all the packeges and dependecies for the project then run the project and see on which port are running the porject. let say my project it running on 8000 port then you have to expose that port on you EC2 machiche.
    8. #### Expose the port
-         - Got to EC2 instnce
+         - Go to EC2 instance
          - security groups
          - add inboud rules
          - add rules
